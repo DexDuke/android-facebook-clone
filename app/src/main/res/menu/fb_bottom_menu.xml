@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="Home"
+        android:id="@+id/home"
+        android:icon="@drawable/home_svf"
+        android:iconTint="@color/black"
+        />
+
+    <item
+        android:title="Add Friend"
+        android:id="@+id/addFriend"
+        android:iconTint="@color/black"
+        android:icon="@drawable/friends"
+        />
+
+    <item
+        android:title="Profile"
+        android:icon="@drawable/profile"
+        android:iconTint="@color/black"
+        android:id="@+id/profile"
+        />
+    <item
+        android:title="Notifications"
+        android:id="@+id/notifications"
+        android:iconTint="@color/black"
+        android:icon="@drawable/bell"
+        />
+    <item
+        android:title="Menu"
+        android:icon="@drawable/menu"
+        android:id="@+id/menu"
+        android:iconTint="@color/black"
+        />
+</menu>

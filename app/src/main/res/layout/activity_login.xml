@@ -226,6 +226,7 @@
     <androidx.appcompat.widget.AppCompatButton
         android:layout_width="0sp"
         android:layout_height="0sp"
+        android:id="@+id/loginBtn"
         android:background="@drawable/fb_login_button"
         android:text="Log in"
         android:textColor="@color/white"
@@ -237,7 +238,7 @@
         app:layout_constraintTop_toTopOf="@+id/guideline14" />
 
     <TextView
-        android:id="@+id/textView3"
+        android:id="@+id/forgotPass"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textColor="@color/black"
@@ -250,6 +251,7 @@
         app:layout_constraintTop_toTopOf="@+id/guideline16" />
 
     <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/registerBtn"
         android:layout_width="0sp"
         android:layout_height="0sp"
         android:text="Create new account"

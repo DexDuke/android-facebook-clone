@@ -1,3 +1,27 @@
 <resources>
     <string name="app_name">Facebook Clone</string>
+    <string-array name="country_name">
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Australia</item>
+        <item>New Zealand</item>
+        <item>England</item>
+        <item>West Indies</item>
+        <item>Srilanka</item>
+        <item>Afganistan</item>
+        <item>Spain</item>
+        <item>Zimbabwe</item>
+        <item>USA</item>
+        <item>Ireland</item>
+        <item>Japan</item>
+        <item>Nepal</item>
+        <item>Nepal</item>
+        <item>Pakistan</item>
+        <item>South Korea</item>
+        <item>Bhutan</item>
+        <item>France</item>
+        <item>Brazil</item>
+        <item>Argentina</item>
+
+    </string-array>
 </resources>
